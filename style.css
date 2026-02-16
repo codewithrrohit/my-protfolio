@@ -100,9 +100,9 @@ border-radius:50%;
 
 box-shadow:
 
-0 0 20px #00F5FF,
+0 0 20px white,
 
-0 0 40px #00F5FF;
+0 0 40px wheat;
 
 }
 
@@ -142,7 +142,7 @@ cursor:pointer;
 
 border-radius:30px;
 
-transition:.20s;
+transition:.3s;
 
 }
 
@@ -279,4 +279,3 @@ cursor:pointer;
 color:#00F5FF;
 
 }
-
